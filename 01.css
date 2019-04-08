@@ -1,0 +1,43 @@
+body{
+	background-image: url('picture/backgroung.jpg');
+	background-repeat: no-repeat;
+	background-position: 30% 38%;
+}
+#head
+{
+	text-align: center;
+
+}
+#badge
+{
+	margin: 0 auto;
+	width: 35%;
+}
+a
+{
+	text-decoration: none;
+	color: gray;
+}
+a:hover
+{
+	color: red;
+}
+#nav
+{
+	float: right;
+	text-align: right;
+	padding-right: 5%;
+}
+.iconfont
+{
+	font-size: 25px;
+}
+span
+{
+	padding: 0 7px;
+}
+#aboutUs
+{
+	text-align: right;
+	padding-right: 3%;
+}
